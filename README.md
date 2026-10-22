@@ -9,4 +9,4 @@ Integrantes do grupo:
 
 Links:
 * Link do projeto Wokwi: https://wokwi.com/projects/478088287791264769
-* Video (YouTube, nao listado): https://youtu.be/-bzdt7gWewg
+* Video: (YouTube, nao listado): https://youtu.be/-bzdt7gWewg
