@@ -7,6 +7,6 @@ Integrantes do grupo:
 * Arthur dos Santos Bezerra - RM 569721
 * Carlos Henrique Fratezi - RM 571792
 
-Links
+Links:
 * Link do projeto Wokwi: https://wokwi.com/projects/478088287791264769
 * Video (YouTube, nao listado): https://youtu.be/-bzdt7gWewg
